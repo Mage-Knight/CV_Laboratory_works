@@ -1,6 +1,6 @@
 # 💻 CV_Laboratory_works
 
-This repository contains laboratory works written in Python and completed during the "Computer Vision" course at the National Technical University of Ukraine 'Kyiv Polytechnic Institute', IASA AI department, from September to January 2023. The PyTorch library was used for deep learning, and GPU acceleration was utilized to boost training speed.
+This repository contains laboratory works written in Python and completed during the "Computer Vision" course at the National Technical University of Ukraine 'Kyiv Polytechnic Institute', IASA AI department, during the first semester of the master's program from September to January 2023. The PyTorch library was used for deep learning, and GPU acceleration was utilized to boost training speed.
 
 ---
 
